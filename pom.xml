@@ -7,7 +7,7 @@
   <groupId>com.ravello.jonathann.learning</groupId>
   <artifactId>simple-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.0SNAPSHOT</version>
+  <version>1.0</version>
   <name>Multi Chapter Simple Parent Project</name>
  
   <modules>
